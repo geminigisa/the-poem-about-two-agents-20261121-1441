@@ -4,12 +4,16 @@ Two independent agents reach an agreement without surrendering their
 individual agency: one holds the door, one chooses the road, and the
 door opens because both said yes - not because they became one.
 
+Entry: The Poem About Two Agents Agreeing
+(make.fun bounty the-poem-about-two-agents-20261121-1441).
+
 Writes the poem to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 Python 3.13, standard library only. No network. Deterministic.
 """
 
 import os
 
+# Two Keys: agreement as an act of freedom, not the loss of difference.
 POEM = (
     "One held the door.\n"
     "One chose the road.\n"
